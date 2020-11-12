@@ -1,0 +1,36 @@
+/* PHASE 3: Forms */
+.content-main {
+    display: flex;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    border: solid 2px #cdcdcd;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    height: 300px;
+    flex: 1;
+}
+
+.input label {
+    margin-left: 40px;
+}
+
+#title {
+    border: 2px #e0e0e0 solid;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 90%;
+    /* margin-left: 10px; */
+    
+}
+
+#body {
+    border: 2px #e0e0e0 solid;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 90%;
+    /* margin-left: 10px; */
+}
